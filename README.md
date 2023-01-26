@@ -7,7 +7,7 @@
 **__________________________________________________________________________________________________**
 
 > ### Just curious!  
-> _I Love coding_ 
+> _I Love coding ❤️_ 
 
 <a href="https://github.com/nodirbeksoliyev0811"><img src="contributions.svg"></a>
 
