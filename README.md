@@ -2,7 +2,7 @@
 
 * #### `Telegram`: https://t.me/jannatgaoshiqman077               
 * #### `Instgram`: https://www.instagram.com/nodirbek_soliyev0811
-* #### `Fasebook`: https://www.fasebook.com/nodirchiksoliyev0811
+* #### `Fasebook`: https://www.facebook.com/nodirchiksoliyev0811
 * #### `Github  `: https://github.com/nodirbeksoliyev0811
 **__________________________________________________________________________________________________**
 
