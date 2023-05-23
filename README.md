@@ -8,6 +8,7 @@
 
 > ### Just curious!  
 > _I Love coding ❤️_ 
+##### `C` [√] , `Python` [√] , `Dart` [√] , `Flutter` [x]
 
 <a href="https://github.com/nodirbeksoliyev0811"><img src="contributions.svg"></a>
 
