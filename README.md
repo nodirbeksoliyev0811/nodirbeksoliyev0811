@@ -1,4 +1,4 @@
-# **_Mr Nodir_** 👨🏻‍💻
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins+code&weight=600&duration=3000&pause=1000&color=24F700&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I'm+a+Flutter+developer.;You+can+use+the+links+++below+to+contact+me.+;Sincerely%2C+Mr+Nodir+%3C%2F%3E" alt="Typing SVG" /></a>
 
 * #### `Telegram`: https://t.me/jannatgaoshiqman077               
 * #### `Instgram`: https://www.instagram.com/nodirbek_soliyev0811
