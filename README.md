@@ -15,8 +15,6 @@
 <a href="https://github.com/nodirbeksoliyev0811"><img width="25px" alt="GitHub" title="Github" src="https://imgur.com/7Pa4G14.png"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins+code&weight=600&duration=3000&pause=900000&color=30FF03&center=true&repeat=false&width=1555&height=10&lines=____________________________________________________________________________________________________________________________________________" alt="Typing SVG" /></a>
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=nodirbeksoliyev0811.nodirbeksoliyev0811" />
-
 ![loading...](https://user-images.githubusercontent.com/116708762/214655455-26f19a64-660c-4578-b961-089d67f4b9b7.png)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins+code&weight=600&duration=3000&pause=900000&color=30FF03&center=true&repeat=false&width=1555&height=10&lines=____________________________________________________________________________________________________________________________________________" alt="Typing SVG" /></a>
