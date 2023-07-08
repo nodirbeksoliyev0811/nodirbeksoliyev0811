@@ -1,6 +1,4 @@
-<a href="https://github.com/nodirbeksoliyev0811"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins+code&weight=600&duration=3000&pause=1000&color=24F700&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I'm+a+Flutter+developer.;You+can+use+the+links+++below+to+contact+me.+;Sincerely%2C+Mr+Nodir+%3C%2F%3E" alt="Typing SVG" /></a>
-
-* #### `Telegram`: https://t.me/jannatgaoshiqman077               
+<a href="https:/t.me/jannatgaoshiqman077"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins+code&weight=600&duration=3000&pause=30000&color=24F700&center=true&vCenter=true&width=90&height=20&lines=Telegram" alt="Typing SVG" /></a>               
 * #### `Instgram`: https://www.instagram.com/nodirbek_soliyev0811
 * #### `Fasebook`: https://www.facebook.com/nodirchiksoliyev0811
 * #### `Github  `: https://github.com/nodirbeksoliyev0811
